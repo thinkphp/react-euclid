@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-euclid/static/css/main.8719ad4d.css",
+    "main.js": "/react-euclid/static/js/main.3dbeef95.js",
+    "index.html": "/react-euclid/index.html",
+    "main.8719ad4d.css.map": "/react-euclid/static/css/main.8719ad4d.css.map",
+    "main.3dbeef95.js.map": "/react-euclid/static/js/main.3dbeef95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8719ad4d.css",
+    "static/js/main.3dbeef95.js"
+  ]
+}
